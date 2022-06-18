@@ -1,4 +1,4 @@
-# PyBingWallpaper
+# BingWallpaper
 
 ## What pybingwallpaper does
 
